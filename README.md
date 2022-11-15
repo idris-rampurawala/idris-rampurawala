@@ -10,6 +10,7 @@ I am a Full Stack Developer specializes in Python (Django, Flask) & JavaScript t
 
 ## :scroll: Latest Blog Posts
   
+  - [Underrated Skills of a Senior Software Engineer](https://dev.to/idrisrampurawala/underrated-skills-of-a-senior-software-engineer-p1e)
   - [Writing Custom Django Database Functions](https://dev.to/idrisrampurawala/writing-custom-django-database-functions-4dmb)
   - [Parallelize Processing a Large AWS S3 File](https://dev.to/idrisrampurawala/parallelize-processing-a-large-aws-s3-file-8eh)
   - [Exporting Data To Excel and CSV in Angular](https://dev.to/idrisrampurawala/exporting-data-to-excel-and-csv-in-angular-3643)
