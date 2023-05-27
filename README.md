@@ -10,6 +10,7 @@ I am a Full Stack Developer specializes in Python (Django, Flask), Go & JavaScri
 
 ## :scroll: Latest Blog Posts
   
+  - [Handling Duplicates in BigQuery](https://dev.to/idrisrampurawala/handling-duplicates-in-bigquery-3aae)
   - [Underrated Skills of a Senior Software Engineer](https://dev.to/idrisrampurawala/underrated-skills-of-a-senior-software-engineer-p1e)
   - [Writing Custom Django Database Functions](https://dev.to/idrisrampurawala/writing-custom-django-database-functions-4dmb)
   - [Parallelize Processing a Large AWS S3 File](https://dev.to/idrisrampurawala/parallelize-processing-a-large-aws-s3-file-8eh)
