@@ -10,7 +10,7 @@ I am a Full Stack Developer specializing in Python (Django, Flask), Go & JavaScr
 
 ## :scroll: Latest Blog Posts
   
-  - [Implementing a Redis-Based Task Queue with Configurable Concurrency]([https://dev.to/idrisrampurawala/handling-duplicates-in-bigquery-3aae](https://dev.to/idrisrampurawala/implementing-a-redis-based-task-queue-with-configurable-concurrency-38db))
+  - [Implementing a Redis-Based Task Queue with Configurable Concurrency](https://dev.to/idrisrampurawala/implementing-a-redis-based-task-queue-with-configurable-concurrency-38db)
   - [Handling Duplicates in BigQuery](https://dev.to/idrisrampurawala/handling-duplicates-in-bigquery-3aae)
   - [Underrated Skills of a Senior Software Engineer](https://dev.to/idrisrampurawala/underrated-skills-of-a-senior-software-engineer-p1e)
   - [Writing Custom Django Database Functions](https://dev.to/idrisrampurawala/writing-custom-django-database-functions-4dmb)
