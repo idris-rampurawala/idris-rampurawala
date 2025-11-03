@@ -10,9 +10,9 @@ I am a Full Stack Developer specializing in Python (Django, Flask), Go & JavaScr
 
 ## :scroll: Latest Blog Posts
   
+  - [Building a Scalable API Event Logger using Pub/Sub, and BigQuery](https://dev.to/idrisrampurawala/building-a-scalable-api-event-logger-using-pubsub-and-bigquery-37dg)
   - [Implementing a Redis-Based Task Queue with Configurable Concurrency](https://dev.to/idrisrampurawala/implementing-a-redis-based-task-queue-with-configurable-concurrency-38db)
   - [Handling Duplicates in BigQuery](https://dev.to/idrisrampurawala/handling-duplicates-in-bigquery-3aae)
-  - [Underrated Skills of a Senior Software Engineer](https://dev.to/idrisrampurawala/underrated-skills-of-a-senior-software-engineer-p1e)
   - [Writing Custom Django Database Functions](https://dev.to/idrisrampurawala/writing-custom-django-database-functions-4dmb)
   - [Parallelize Processing a Large AWS S3 File](https://dev.to/idrisrampurawala/parallelize-processing-a-large-aws-s3-file-8eh)
   - [Exporting Data To Excel and CSV in Angular](https://dev.to/idrisrampurawala/exporting-data-to-excel-and-csv-in-angular-3643)
